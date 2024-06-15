@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "80B83079-58C5-427C-8CF3-87A3A507C7E3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E011D9DF-370F-42CD-AF0E-9E0D038570CB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Strategy-SwiftUI/Payment/UI/PaymentConfirmationState.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "doPayment(item:business:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E011D9DF-370F-42CD-AF0E-9E0D038570CB - f70ab35ef3b4bc22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in Strategy_SwiftUI.PaymentConfirmationState.doPayment(item: Strategy_SwiftUI.Item, business: Strategy_SwiftUI.PaymentBusiness) -&gt; ()"
+                  moduleName = "Strategy-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiranipc/Desktop/iOS-lab/Strategy-SwiftUI/Strategy-SwiftUI/Payment/UI/PaymentConfirmationState.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "99">
+               </Location>
+               <Location
+                  uuid = "E011D9DF-370F-42CD-AF0E-9E0D038570CB - af954ee291e1c6ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for closure #1 @Sendable () async -&gt; () in Strategy_SwiftUI.PaymentConfirmationState.doPayment(item: Strategy_SwiftUI.Item, business: Strategy_SwiftUI.PaymentBusiness) -&gt; ()"
+                  moduleName = "Strategy-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiranipc/Desktop/iOS-lab/Strategy-SwiftUI/Strategy-SwiftUI/Payment/UI/PaymentConfirmationState.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "E011D9DF-370F-42CD-AF0E-9E0D038570CB - 6c3b4194d829da21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Strategy_SwiftUI.PaymentConfirmationState.doPayment(item: Strategy_SwiftUI.Item, business: Strategy_SwiftUI.PaymentBusiness) -&gt; ()"
+                  moduleName = "Strategy-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiranipc/Desktop/iOS-lab/Strategy-SwiftUI/Strategy-SwiftUI/Payment/UI/PaymentConfirmationState.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
