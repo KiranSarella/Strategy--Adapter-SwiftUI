@@ -13,8 +13,6 @@ struct ContentView: View {
     var body: some View {
         NavigationStack {
             PaymentOptionsView(business: $paymentBusiness)
-//                .navigationTitle("Payment methods")
-//                .navigationBarTitleDisplayMode(.inline)
         }
         
     }
